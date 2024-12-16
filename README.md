@@ -1,5 +1,8 @@
 # CalculatorChallenge-Core-Data
 
+<img width="238" alt="Screenshot 2024-12-16 at 7 58 20 pm" src="https://github.com/user-attachments/assets/87acf8e1-17ef-4160-b4e3-0f7ce12989ab" />
+<img width="327" alt="Screenshot 2024-12-16 at 7 58 58 pm" src="https://github.com/user-attachments/assets/fe4b2564-ca73-40cd-afaa-a9dc38dfd004" />
+
 
 
 - it is a calculator that should have two screens;
